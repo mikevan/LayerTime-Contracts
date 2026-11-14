@@ -1,5 +1,9 @@
 # LayerTime-Contracts
 
+Evidence is useful only if the devices exchanging it agree on what it means. LayerTime-Contracts exists to preserve that agreement as observations move between capture devices, watches, and Vixen.
+
+Silent changes in a field's meaning can undermine trust in a finding. Versioned definitions and byte-exact test vectors make those boundaries inspectable across implementations. They establish compatible representations, not the truth of an observation.
+
 Canonical application and Link wire contracts and test vectors for the C++, Kotlin and Monkey C bindings.
 
 

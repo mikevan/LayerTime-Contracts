@@ -1,5 +1,7 @@
 # LayerTime Commands
 
+People need control over what their tools collect and retain. These commands define the shared control boundary; products must preserve their documented meanings rather than imply that a requested action has already succeeded.
+
 Contract version 0.1. Enum values are in `vectors/enums.json`. The C++
 binding is `libraries/LayerTime-Core/src/core/model/LayerTimeCommand.h`.
 

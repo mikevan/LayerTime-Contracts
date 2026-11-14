@@ -1,5 +1,7 @@
 # LayerTime Link 0.1
 
+Evidence must survive the journey from capture device to the person using it. This versioned transport agreement makes that journey inspectable and helps devices exchange observations consistently.
+
 Contract version 0.1, Slice 1 draft. The wire format between a LayerTime Node
 (the T-Dongle-C5) and a LayerTime interface (the Garmin tactix) over BLE
 GATT. The C++ binding is `libraries/LayerTime-Core/src/core/link/`; the Monkey C binding is

@@ -1,5 +1,7 @@
 # LayerTime Link 0.2 design: frame evidence and HUNT
 
+People relying on local evidence need compatible devices and visible transport limits. This versioned agreement supports that purpose by defining what is exchanged and how it is interpreted, without treating transport success as a validated warning.
+
 Status: design approved by Michael on 2026-10-30. Not implemented. This is the design, not yet the wire contract: Phase 2 turns Part 3 into the Link 0.2 specification with byte-exact vectors, alongside `link.md`, and each phase is reviewed before the next starts.
 
 This replaces the plan part of `devices/layertime-controller-android/FRAME_EVIDENCE_PROPOSAL.md`. That proposal's findings, its evidence key, and its cautions still stand and are summarized here. What's new:

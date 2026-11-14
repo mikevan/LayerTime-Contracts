@@ -1,5 +1,7 @@
 # LayerTime Models
 
+Independent records can be compared only when the same fields carry the same meaning. These models define the evidence exchanged by the toolkit; a compatible record is not proof of a threat, identity, or intent.
+
 Contract version 0.1. Enum values are in `vectors/enums.json`. The C++
 binding is `libraries/LayerTime-Core/src/core/model/`.
 
