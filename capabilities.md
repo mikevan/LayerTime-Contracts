@@ -1,5 +1,7 @@
 # LayerTime Device Capabilities
 
+A field tool must distinguish what a device can actually observe from what an operator hopes it can do. These capability definitions make those boundaries explicit so people can make informed decisions about their tools.
+
 Contract version 0.1. Enum values are in `vectors/enums.json`. The C++
 binding is `libraries/LayerTime-Core/src/core/model/DeviceCapabilities.h`.
 
